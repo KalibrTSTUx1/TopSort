@@ -1,0 +1,48 @@
+C:\Users\belsk\Desktop\topPlusfourTypers\lection1404\bin\Debug\net6.0\lection1404.deps.json
+C:\Users\belsk\Desktop\topPlusfourTypers\lection1404\bin\Debug\net6.0\lection1404.dll
+C:\Users\belsk\Desktop\topPlusfourTypers\lection1404\bin\Debug\net6.0\lection1404.pdb
+C:\Users\belsk\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.csproj.AssemblyReference.cache
+C:\Users\belsk\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belsk\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.AssemblyInfoInputs.cache
+C:\Users\belsk\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.AssemblyInfo.cs
+C:\Users\belsk\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.csproj.CoreCompileInputs.cache
+C:\Users\belsk\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.dll
+C:\Users\belsk\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\refint\lection1404.dll
+C:\Users\belsk\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.pdb
+C:\Users\belsk\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\ref\lection1404.dll
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\lection1404\bin\Debug\net6.0\lection1404.deps.json
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\lection1404\bin\Debug\net6.0\lection1404.dll
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\lection1404\bin\Debug\net6.0\lection1404.pdb
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.dll
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\lection1404\obj\Debug\net6.0\refint\lection1404.dll
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.pdb
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\lection1404\obj\Debug\net6.0\ref\lection1404.dll
+C:\Users\UserName\Desktop\topPlusfourTypers\lection1404\bin\Debug\net6.0\lection1404.deps.json
+C:\Users\UserName\Desktop\topPlusfourTypers\lection1404\bin\Debug\net6.0\lection1404.dll
+C:\Users\UserName\Desktop\topPlusfourTypers\lection1404\bin\Debug\net6.0\lection1404.pdb
+C:\Users\UserName\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.csproj.AssemblyReference.cache
+C:\Users\UserName\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserName\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.AssemblyInfoInputs.cache
+C:\Users\UserName\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.AssemblyInfo.cs
+C:\Users\UserName\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.csproj.CoreCompileInputs.cache
+C:\Users\UserName\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.dll
+C:\Users\UserName\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\refint\lection1404.dll
+C:\Users\UserName\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.pdb
+C:\Users\UserName\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\ref\lection1404.dll
+C:\Users\Анна\Desktop\topPlusfourTypers\lection1404\bin\Debug\net6.0\lection1404.deps.json
+C:\Users\Анна\Desktop\topPlusfourTypers\lection1404\bin\Debug\net6.0\lection1404.dll
+C:\Users\Анна\Desktop\topPlusfourTypers\lection1404\bin\Debug\net6.0\lection1404.pdb
+C:\Users\Анна\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.AssemblyInfoInputs.cache
+C:\Users\Анна\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.AssemblyInfo.cs
+C:\Users\Анна\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.dll
+C:\Users\Анна\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\refint\lection1404.dll
+C:\Users\Анна\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\lection1404.pdb
+C:\Users\Анна\Desktop\topPlusfourTypers\lection1404\obj\Debug\net6.0\ref\lection1404.dll

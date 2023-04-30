@@ -1,0 +1,76 @@
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\Forms.exe
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\Forms.deps.json
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\Forms.runtimeconfig.json
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\Forms.dll
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\Forms.pdb
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.csproj.AssemblyReference.cache
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.Form1.resources
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.formElementAdd.resources
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.csproj.GenerateResource.cache
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfoInputs.cache
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfo.cs
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.csproj.CoreCompileInputs.cache
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.dll
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\refint\Forms.dll
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.pdb
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.genruntimeconfig.cache
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\ref\Forms.dll
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\lection1404.dll
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\lection1404.pdb
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.csproj.CopyComplete
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.AllForms.formConstrains.resources
+C:\Users\Анна\Desktop\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\Forms.exe
+C:\Users\Анна\Desktop\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\Forms.deps.json
+C:\Users\Анна\Desktop\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\Forms.runtimeconfig.json
+C:\Users\Анна\Desktop\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\Forms.dll
+C:\Users\Анна\Desktop\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\Forms.pdb
+C:\Users\Анна\Desktop\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\lection1404.dll
+C:\Users\Анна\Desktop\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\lection1404.pdb
+C:\Users\Анна\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.csproj.AssemblyReference.cache
+C:\Users\Анна\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.Form1.resources
+C:\Users\Анна\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.AllForms.formConstrains.resources
+C:\Users\Анна\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.formElementAdd.resources
+C:\Users\Анна\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.csproj.GenerateResource.cache
+C:\Users\Анна\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анна\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfoInputs.cache
+C:\Users\Анна\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfo.cs
+C:\Users\Анна\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Анна\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.csproj.CopyComplete
+C:\Users\Анна\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.dll
+C:\Users\Анна\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\refint\Forms.dll
+C:\Users\Анна\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.pdb
+C:\Users\Анна\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.genruntimeconfig.cache
+C:\Users\Анна\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\ref\Forms.dll
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.formForFElemSort.FElemForm.resources
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.solutionBlank.resources
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\Forms.exe
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\Forms.deps.json
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\Forms.runtimeconfig.json
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\Forms.dll
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\Forms.pdb
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\lection1404.dll
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\lection1404.pdb
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.csproj.AssemblyReference.cache
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.formForFElemSort.FElemForm.resources
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.Form1.resources
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.AllForms.formConstrains.resources
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.formElementAdd.resources
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.solutionBlank.resources
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.csproj.GenerateResource.cache
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.GeneratedMSBuildEditorConfig.editorconfig
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfoInputs.cache
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.AssemblyInfo.cs
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.csproj.CoreCompileInputs.cache
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.csproj.CopyComplete
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.dll
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\refint\Forms.dll
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.pdb
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.genruntimeconfig.cache
+E:\первый курс\second semak\основы программирования\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\ref\Forms.dll
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\obj\Debug\net6.0-windows\Forms.formForTSort.randMenu.resources
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\test1.deps.json
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\test1.runtimeconfig.json
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\test1.exe
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\test1.dll
+C:\Users\UserName\Desktop\topPlusfourTypers\Forms\bin\Debug\net6.0-windows\test1.pdb
